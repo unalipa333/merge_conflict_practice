@@ -1,2 +1,2 @@
-# merge_conflict_practice
+# Merge Conflict Practice Repository!
 Practice repo for merge conflict challenge
