@@ -1,3 +1,5 @@
+Merge Conflict Practice
+
 
 This is what I used for practicing merge conflits and the processes used to resolve them. 
 
